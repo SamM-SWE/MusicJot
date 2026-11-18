@@ -4,7 +4,7 @@ import { useParams, useNavigate } from "react-router-dom";
 import NavBar from "../components/NavBar";
 import { supabase } from "../supabaseClient";
 import sendIcon from "../assets/send.svg";
-import thumbsup from "../assets/thumbsup.svg";
+import thumbsup from "../assets/thumbsUp.svg";
 import CommentCard from "../components/CommentCard";
 import editIcon from "../assets/edit.svg";
 import deleteIcon from "../assets/delete.svg";
